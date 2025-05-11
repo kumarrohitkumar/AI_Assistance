@@ -67,7 +67,7 @@ export const ChatProvider = ({ children }) => {
 
     try {
       const response = await axios.post(
-        "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyCjpOC2Az6Z9Dw4WlCBHeczOsi3ZmdqFAU",
+        "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=YourAPIKey",
         { contents: [{ parts: [{ text: currentPrompt }] }] }
       );
 
