@@ -1,3 +1,20 @@
+# 🤖 AI Chat Bot App
+
+This is an AI-powered chat application built using **React.js**, **Axios**, **MongoDB**, and the **Google Gemini API**. Users can interact with the chat bot, get intelligent responses, and manage multiple chat sessions. It's designed to mimic natural human conversation and provide helpful answers on a variety of topics.
+
+## 🌟 Features
+
+- ✨ Chat with AI (Gemini 2.0)
+- 🧠 Stores all chat history securely
+- 💬 Multiple chat sessions supported
+- 🔐 JWT-based user authentication
+- 🧾 Save, delete, and fetch messages
+- 🔄 Real-time response loading indicators
+- 🚀 Easy and smooth UI built with React
+
+## 📸 Screenshots
+
+
 ![Screenshot (113)](https://github.com/user-attachments/assets/d67d35d5-68d6-4f13-b4dd-c16ccf26034d)
 
 
